@@ -1,4 +1,4 @@
-1. Alexandra Maratkanova
+1. Alexandra Maratkanova    
 2. ola.maratkanova@gmail.com
 3. I want to learn programming to get a fascinating and demanded profession. I have no experience working in IT yet, but I am a fast learner and love to learn new things.
 4. I am familiar with C / C ++. I know python, C #, and JS at a beginner level.
